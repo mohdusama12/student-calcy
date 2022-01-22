@@ -1,1 +1,1 @@
-# Student Grage and Percentage Calcy.
+# Student Grade and Percentage Calcy.
